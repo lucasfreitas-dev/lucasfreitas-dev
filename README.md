@@ -6,7 +6,7 @@
 
 <p>
 
-I currently work as a **Tech Lead at Hurb** - a leading Brazilian on-line travel agency.br/>
+I currently work as a **Tech Lead at Hurb** - a leading Brazilian on-line travel agency. <br/>
 
 I have solid experience with **Tech Leadership, Go, C# .NET, JavaScript, GCP, AWS, RDBMSs, MongoDB**, and other technologies and skills.
 
